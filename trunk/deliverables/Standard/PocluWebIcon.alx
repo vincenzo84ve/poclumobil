@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="PocluWebIcon">
+		<name >
+			Poclu
+		</name>
+		<description >
+			An application shortcut to the poclu.com/mobil
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			http://www.stcsolutions.com.ve
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 http://www.stcsolutions.com.ve
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[6.0.0)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				PocluWebIcon.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
