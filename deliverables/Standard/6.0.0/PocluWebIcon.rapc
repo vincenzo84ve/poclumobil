@@ -1,0 +1,11 @@
+MIDlet-Name: PocluWebIcon
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: http://www.stcsolutions.com.ve
+MIDlet-Description: An application shortcut to the poclu.com/mobil
+MIDlet-Jar-URL: PocluWebIcon.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Poclu,img/logo_face.png,
+RIM-MIDlet-Flags-1: 0
+
