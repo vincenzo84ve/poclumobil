@@ -1,0 +1,1 @@
+A shortcut icon to the poclu.com/mobil for blackberry smartphones
